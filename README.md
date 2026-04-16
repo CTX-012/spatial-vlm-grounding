@@ -2,7 +2,7 @@
 
 **Project:** Spatial Grounding for Hallucination Reduction in Autonomous Indoor Floor-Cleaning Robots  
 **Status:** Pilot results complete. Seeking methodology feedback before full-dataset run.  
-**Contact:**  Faisal, Nithin , Asad
+**Contact:**  Faisal
 **Date:** April 2026 
 
 ---
