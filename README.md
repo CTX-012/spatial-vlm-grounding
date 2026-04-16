@@ -199,7 +199,7 @@ Full dataset run if methodology approved: ~$50.
 ## Folder Structure
 
 ```
-pod/
+spatial-vlm-grounding/
   README.md                  ← this file
   viz/           ← 10 Pipeline C comparison images
   viz_f_outputs/viz_f/       ← 10 Pipeline F comparison images
