@@ -2,8 +2,8 @@
 
 **Project:** Spatial Grounding for Hallucination Reduction in Autonomous Indoor Floor-Cleaning Robots  
 **Status:** Pilot results complete. Seeking methodology feedback before full-dataset run.  
-**Contact:** Mohammad Asadullah (asdxfsl48) — Faisal, Nithin  
-**Date:** April 2026
+**Contact:**  Faisal, Nithin , Asad
+**Date:** April 2026 
 
 ---
 
@@ -203,5 +203,5 @@ spatial-vlm-grounding/
   README.md                  ← this file
   viz/           ← 10 Pipeline C comparison images
   viz_f_outputs/viz_f/       ← 10 Pipeline F comparison images
-    qwen3b/                  ← Qwen2.5-VL-3B results
+                  
 ```
